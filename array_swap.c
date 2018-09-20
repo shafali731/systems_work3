@@ -4,9 +4,9 @@
 
 int main(){
   srand( time(NULL) );//seeds random number generator
-  printf("testing rand \n");
-  int a = rand();
-  printf("%d \n", a);
+  //printf("testing rand \n");
+  //int a = rand();
+  //printf("%d \n", a);
 
 int arr1[10]; //ray storing 10 ints
 
